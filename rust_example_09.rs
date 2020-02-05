@@ -9,7 +9,7 @@ fn main() {
     for i in 0.._numbers.len() {
         print!("{} ",_numbers[i]);
     }
-    for i in 1..20 {
+    for i in 1..10 {
         println!("{}",zero_vector[i]);
     }
 }
